@@ -54,10 +54,25 @@ Software Developer | System Designer | Frontend Developer | Backend Developer | 
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gali-Mallikarjuna-Reddy&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gali-Mallikarjuna-Reddy&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=MALLIKARJUNAREDDYgali&show_icons=true&theme=tokyonight" height="165"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALLIKARJUNAREDDYgali&layout=compact&theme=tokyonight" height="165"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MALLIKARJUNAREDDYgali&theme=tokyonight" />
+</p>
+
+---
 ---
