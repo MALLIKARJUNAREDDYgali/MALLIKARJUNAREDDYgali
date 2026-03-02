@@ -4,6 +4,18 @@ Software Developer | System Designer | Frontend Developer | Backend Developer | 
 </h3>
 
 ---
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🎓 Passionate Software Developer from India  
+- 💡 Strong interest in System Design & Scalable Architectures  
+- 🤖 Exploring AI, Machine Learning & Generative AI  
+- 🧠 Building projects using Python, Java & Databases  
+- 🚀 Currently working on AI-powered real-world applications  
+- 📈 Always learning and improving every day  
+
+---
 
 ## 🌐 Connect with me
 
